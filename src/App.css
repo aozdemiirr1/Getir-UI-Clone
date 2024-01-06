@@ -1,0 +1,47 @@
+/* HEADER */
+
+.secili {
+  color: #ffd300;
+}
+
+header {
+  background-color: #4c3398;
+}
+
+header .menu a:hover {
+  color: #ffd300;
+}
+
+/* BANNER */
+
+.banner img {
+  height: 700px;
+}
+
+.bannertext img {
+  height: 176px;
+}
+
+/* HOME CONTENT KATEGORİ */
+
+.kategori a {
+  width: 155px;
+  height: 115px;
+}
+
+.kategori img {
+  width: 68px;
+  height: 68px;
+}
+
+/* HOME CONTENT GETİRİ İNDİR */
+
+.getirindir {
+  background-image: url(https://cdn.getir.com/getirweb-images/common/illustration/doodle.png);
+  filter: drop-shadow(2px 4px 6px black);
+}
+
+.homecard {
+  width: 400px;
+  height: 350px;
+}

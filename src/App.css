@@ -14,7 +14,7 @@ header .menu a:hover {
 
 /* BANNER */
 
-.banner img {
+.banner img , .banner video{
   height: 700px;
 }
 
@@ -29,7 +29,7 @@ header .menu a:hover {
   height: 115px;
 }
 
-.kategori img {
+.kategori img{
   width: 68px;
   height: 68px;
 }
@@ -44,4 +44,29 @@ header .menu a:hover {
 .homecard {
   width: 400px;
   height: 350px;
+}
+
+
+/* GETİRYEMEK CONTENT */
+
+.restoransahibi {
+  background-image: url(https://cdn.getir.com/getirweb-images/common/partners-background.jpg);
+}
+
+
+
+/* MOBİL AYARLARI */
+
+/* HEADER */
+
+.menu.acik {
+  z-index: 200;
+  flex-direction: column;
+  position: absolute;
+  align-items: self-start;
+  top: 53px;
+  padding: 30px;
+  width: 100%;
+  font-size: 20px;
+  background-color: #4c3398;
 }

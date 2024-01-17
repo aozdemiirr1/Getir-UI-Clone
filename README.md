@@ -6,3 +6,4 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![getir-ui-clone netlify app_](https://github.com/aozdemiirr1/Getir-UI-Clone/assets/121563534/2df9f6c5-25cc-4342-b6c5-dd61abd47739)
